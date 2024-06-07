@@ -17,9 +17,8 @@
 </div>
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
+<!-- INDEX OF CONTENTS -->
+  <summary>Index of Contents</summary>
   <ul>
     <li>
       <a href="#overview">Overview</a>
@@ -36,7 +35,7 @@
   </ul>
 </details>
 
-<br><br>
+<br>
 
 ## Overview
 ### Service Component
