@@ -36,7 +36,6 @@
   </ul>
 </details>
 
-<br/>
 ## Overview
 ### Service Component
 
