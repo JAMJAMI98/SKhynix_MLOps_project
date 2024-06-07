@@ -3,7 +3,7 @@
   <br/>
   <h3 align="center">SmartFactory 운영을 위한 Subcomponent Fail Prediction MLOps 개발</h3>
   <p align="center">
-    <a href="https://github.com/JAMJAMI98">현재민</a> · 이승규 · 박소정 · 정대호
+    <a href="https://github.com/JAMJAMI98">현재민</a> · 이승규 · 박소정 · 정대훈
   </p>
   <p align="center">
     2024.03 ~ 2024.05 | SK planet T-academy
