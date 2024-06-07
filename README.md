@@ -22,7 +22,7 @@
   <summary>Table of Contents</summary>
   <ul>
     <li>
-      <br/><a href="#overview">Overview</a>
+      <a href="#overview">Overview</a>
       <ul>
         <li><a href="#service-component">Service Component</a></li>
         <li><a href="#short-video">Short Video</a></li>
@@ -36,6 +36,7 @@
   </ul>
 </details>
 
+<br/>
 ## Overview
 ### Service Component
 
