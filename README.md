@@ -18,6 +18,7 @@
 
 
 <!-- INDEX OF CONTENTS -->
+<details>
   <summary>Index of Contents</summary>
   <ul>
     <li>
