@@ -17,23 +17,24 @@
 </div>
 
 
-  <div class="toc">
-    <h2>Index of Contents</h2>
-    <ul>
-      <li><a href="#overview">Overview</a></li>
-      <li>
-        <ul>
-          <li><a href="#service-component">Service Component</a></li>
-          <li><a href="#short-video">Short Video</a></li>
-        </ul>
-      </li>
-      <li><a href="#built-with">Built With</a></li>
-      <li><a href="#data-preprocessing">Data Preprocessing</a></li>
-      <li><a href="#modeling">MODELING</a></li>
-      <li><a href="#mlops-pipeline">MLOps pipeline</a></li>
-      <li><a href="#conclusion">Conclusion</a></li>
-    </ul>
-  </div>
+<!-- INDEX OF CONTENTS -->
+<details>
+  <summary>Index of Contents</summary>
+  <ul>
+    <li>
+      <a href="#overview">Overview</a>
+      <ul>
+        <li><a href="#service-component">Service Component</a></li>
+        <li><a href="#short-video">Short Video</a></li>
+      </ul>
+    </li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#data-preprocessing">Data Preprocessing</a></li>
+    <li><a href="#modeling">MODELING</a></li>
+    <li><a href="#mlops-pipeline">MLOps pipeline</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
+  </ul>
+</details>
 
 <br>
 
