@@ -4,8 +4,7 @@
 --->
 
 <div align="center">
-  <img width="30%" alt="SKhynix_logo" src="![스크린샷 2024-06-08 005235](https://github.com/JAMJAMI98/SKhynix_MLOps_project/assets/94438552/7dd73b3e-6598-4efb-9c26-e90202d1bf1a)
-" title="SKhynix logo">
+  <img width="30%" alt="SKhynix_logo" src="https://github.com/JAMJAMI98/SKhynix_MLOps_project/assets/94438552/7dd73b3e-6598-4efb-9c26-e90202d1bf1a" title="SKhynix logo">
   <br/>
   <h3 align="center">SmartFactory 운영을 위한 Subcomponent Fail Prediction MLOps 개발</h3>
   <p align="center">
