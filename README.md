@@ -1,8 +1,3 @@
-# SmartFactory 운영을 위한 Subcomponent Fail Prediction MLOps 개발
-<!---
-  README.md for NutriAI project
---->
-
 <div align="center">
   <img width="30%" alt="SKhynix_logo" src="https://github.com/JAMJAMI98/SKhynix_MLOps_project/assets/94438552/7dd73b3e-6598-4efb-9c26-e90202d1bf1a" title="SKhynix logo">
   <br/>
@@ -22,7 +17,7 @@
     🥇 1st Place in T-academy and SK hynix Business linkage Program
     <br/>
     <a href="https://www.youtube.com/watch?v=0lnuD3EgGe4&list=RDCMUCtV98yyffjUORQRGTuLHomw&start_radio=1" target="_blank">
-      <img width="40%" alt="youtube" src="![스크린샷 2024-06-08 005501](https://github.com/JAMJAMI98/SKhynix_MLOps_project/assets/94438552/1a601a0d-e025-4844-a75b-529497115654)" title="MLOops Presentation">
+      <img width="40%" alt="youtube" src="https://github.com/JAMJAMI98/SKhynix_MLOps_project/assets/94438552/1a601a0d-e025-4844-a75b-529497115654" title="MLOops Presentation">
     </a>
   </p>
 </div>
