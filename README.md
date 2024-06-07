@@ -14,7 +14,7 @@
       <img width="40%" alt="youtube" src="https://github.com/JAMJAMI98/SKhynix_MLOps_project/assets/94438552/1a601a0d-e025-4844-a75b-529497115654" title="MLOops Presentation">
     </a>
   </p>
-</div><br/>
+</div>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -22,7 +22,7 @@
   <summary>Table of Contents</summary>
   <ul>
     <li>
-      <a href="#overview">Overview</a>
+      <br/><a href="#overview">Overview</a>
       <ul>
         <li><a href="#service-component">Service Component</a></li>
         <li><a href="#short-video">Short Video</a></li>
