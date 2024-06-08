@@ -96,6 +96,8 @@
   <img width="55%" alt="pipeline" src="https://github.com/JAMJAMI98/SKhynix_MLOps_project/assets/94438552/d669da64-ff9c-4a04-bc5d-41f979c970f4">
 </div>
 
+<br/>
+
 <div align="center">
   <img width="55%" alt="database_ERD" src="https://github.com/JAMJAMI98/SKhynix_MLOps_project/assets/94438552/0a2446a1-d977-4bf4-ac3b-96756245eba2">
 </div>
