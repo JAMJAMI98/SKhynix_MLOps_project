@@ -22,21 +22,34 @@
   <summary>Index of Contents</summary>
   <ul>
     <li>
-      <a href="#overview">📝Overview</a>
+      <a href="#overview">Overview</a>
       <ul>
         <li><a href="#service-component">Service Component</a></li>
         <li><a href="#short-video">Short Video</a></li>
       </ul>
     </li>
-    <li><a href="#built-with">💡Built With</a></li>
-    <li><a href="#data-preprocessing">💡Data Preprocessing</a></li>
-    <li><a href="#modeling">💡MODELING</a></li>
-    <li><a href="#mlops-pipeline">💡MLOps pipeline</a></li>
-    <li><a href="#conclusion">💡Conclusion</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#background">Backgroud</a></li>
+    <li><a href="#data-preprocessing">Data Preprocessing</a></li>
+    <li><a href="#modeling">MODELING</a></li>
+    <li><a href="#mlops-pipeline">MLOps pipeline</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
   </ul>
 </details>
 
 <br>
 
-## Overview
-### Service Component
+## 📝 Overview
+### 💡 Service Component
+- 고장예측 대시보드 (Fail Prediction Dashboard): Pump Status, Fail Prediction Status, Cost Status
+- 펌프 고장 예측 (Pump Failure Prediction): RUL Prediction Graph, Compare Metric
+- 로그인 및 회원가입 (LogIn/SignUp)
+
+### 💡 Short Video
+<div align="center">
+  <video src="https://user-images.githubusercontent.com/33509018/163580554-2daf92a4-33e3-4818-9278-31258f6444be.mp4" data-canonical-src="https://user-images.githubusercontent.com/33509018/163580554-2daf92a4-33e3-4818-9278-31258f6444be.mp4" controls="controls" muted="muted" style="max-height:640px;">
+  </video>
+</div>
+
+
+
