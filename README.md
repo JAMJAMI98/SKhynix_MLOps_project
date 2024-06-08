@@ -139,10 +139,23 @@
   <img width="55%" alt="result" src="https://github.com/JAMJAMI98/SKhynix_MLOps_project/assets/94438552/ba84e6cc-fc51-4403-9998-ea81debceb8d">
   </div>
 
-
 <br/>
 
 ## ⭐️ Conclusion
+### 1. 예측 모델 성능 향상
+- Weighted RMSE와 MinMax RMSE를 사용하여 기존 RMSE Metric보다 **평균 52.5%** 정교하게 모델 성능 평가
+- CNN-LSTM 모델은 머신러닝 모델 대비 17%, DLSTM 모델 대비 6.8%, RVE 모델 대비 14.6% 성능이 높았음
+- LSTM 모델을 최종적으로 채택하여 기존 모델과 비교하여 **1.5% 성능 향상**
+
+### 2. 유지보수 비용 절감
+<div align="center">
+  <img width="55%" alt="aicompare" src="https://github.com/JAMJAMI98/SKhynix_MLOps_project/assets/94438552/43c8351e-e4ca-45e1-ad04-c5b3be2f36c2">
+</div>
+<div align="center">
+  <img width="55%" alt="aicompare" src="https://github.com/JAMJAMI98/SKhynix_MLOps_project/assets/94438552/d46592e7-a586-4cb8-b345-64f48776820f">
+</div>
+
+👉🏻 예지 정비 솔루션을 통해 **유지보수 비용 25.69% 절감**
 
 
 
