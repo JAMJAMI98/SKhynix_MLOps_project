@@ -134,6 +134,14 @@
 
 <br/>
 
+- 모델링 결과
+  <div align="center">
+  <img width="55%" alt="result" src="https://github.com/JAMJAMI98/SKhynix_MLOps_project/assets/94438552/ba84e6cc-fc51-4403-9998-ea81debceb8d">
+  </div>
+
+
+<br/>
+
 ## ⭐️ Conclusion
 
 
