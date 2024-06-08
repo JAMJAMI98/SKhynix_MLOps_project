@@ -111,7 +111,15 @@
   <img width="55%" alt="dataset" src="https://github.com/JAMJAMI98/SKhynix_MLOps_project/assets/94438552/e77a765a-0464-47cb-a58c-a5fbfa6d8d69">
 </div>
 
+### 2. 실시간 데이터 수집 및 전처리 자동화
+- AWS S3를 활용하여 초마다 쌓이는 펌프 데이터를 실시간으로 수집하고 저장
+- 모든 전처리 프로세스 함수화 및 데이터가 업데이트되면 AWS Lambda를 사용하여 자동으로 전처리를 수행하는 프로세스 구축
 
+### 3. 데이터 전처리
+- **파생변수 생성 및 컬럼 Drop**: 시간 관련 파생변수 설정, Anova 검정 및 EDA를 통해 컬럼 drop
+- **Scaling**: 사용하는 RUL 모델에 따라 MinMaxScaler , StandardScaler, Condition Based Scaler 등 Scaling의 방법을 다르게 적용 및 correlation에 따른 PCA를 활용한 Feature 차원축소
+- **Smoothing**: Exponential Moving Average (EMA)를 활용하여 데이터 스무딩 및 노이즈 감소
+- **Moving Average**: trial and error, grid search, elbow point, 논문 리서치 등을 통해 window size 최적화
 
 <br/>
 
