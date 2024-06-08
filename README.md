@@ -51,5 +51,20 @@
   </video>
 </div>
 
+## ⭐️ Built With
+- [Python](https://www.python.org/)
+- [HTML/JS/CSS](https://getbootstrap.kr/)
+- [Amazon Web Services: EC2, S3, Lambda, Cloud Watch, RDS, SSM](https://aws.amazon.com/ko/)
+- [MLflow](https://mlflow.org/)
+- [Streamlit](https://streamlit.io/)
+- [Keras](https://keras.io/)
+- [TensorFlow](https://www.tensorflow.org/?hl=ko)
+- [PyTorch](https://pytorch.org/)
+- [Prophet](https://facebook.github.io/prophet/)
+- [Scikit-learn](https://scikit-learn.org/stable/)
+- [Python Libary: pandas, Numpy, matplotlib, SciPy](https://docs.python.org/ko/3/library/index.html)
+- [Jira](https://www.atlassian.com/ko/software/jira)
+
+
 
 
