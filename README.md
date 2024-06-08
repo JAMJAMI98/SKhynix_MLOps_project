@@ -47,7 +47,7 @@
 
 ### 💡 Short Video
 <div align="center">
-  <video src="https://user-images.githubusercontent.com/33509018/163580554-2daf92a4-33e3-4818-9278-31258f6444be.mp4" data-canonical-src="https://user-images.githubusercontent.com/33509018/163580554-2daf92a4-33e3-4818-9278-31258f6444be.mp4" controls="controls" muted="muted" style="max-height:640px;">
+  <video src="https://github.com/JAMJAMI98/SKhynix_MLOps_project/assets/94438552/c23edf01-9783-4be6-bde2-2e5b2daf820a" data-canonical-src="https://github.com/JAMJAMI98/SKhynix_MLOps_project/assets/94438552/c23edf01-9783-4be6-bde2-2e5b2daf820a" controls="controls" muted="muted" style="max-height:640px;">
   </video>
 </div>
 
