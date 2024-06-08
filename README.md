@@ -106,6 +106,11 @@
 <br/>
 
 ## ⭐️ Data Preprocessing
+### 1. Data set
+<div align="center">
+  <img width="55%" alt="dataset" src="https://github.com/JAMJAMI98/SKhynix_MLOps_project/assets/94438552/e77a765a-0464-47cb-a58c-a5fbfa6d8d69">
+</div>
+
 
 
 <br/>
