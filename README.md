@@ -24,16 +24,16 @@
     <li>
       Overview</a>
       <ul>
-        <li><a href="#service-component">Service Component</a></li>
-        <li><a href="#short-video">Short Video</a></li>
+        <li>Service Component</a></li>
+        <li>Short Video</a></li>
       </ul>
     </li>
-    <li><a href="#built-with">Built With</a></li>
-    <li><a href="#background">Backgroud</a></li>
-    <li><a href="#data-preprocessing">Data Preprocessing</a></li>
-    <li><a href="#modeling">MODELING</a></li>
-    <li><a href="#mlops-pipeline">MLOps pipeline</a></li>
-    <li><a href="#conclusion">Conclusion</a></li>
+    <li>Built With</a></li>
+    <li>Backgroud</a></li>
+    <li>Data Preprocessing</a></li>
+    <li>MODELING</a></li>
+    <li>MLOps pipeline</a></li>
+    <li>Conclusion</a></li>
   </ul>
 </details>
 
