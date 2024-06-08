@@ -128,6 +128,9 @@
 - **Custom 모델 연구**: CNN-LSTM 모델을 연구하여 layer 조정과 같은 복잡한 구조 설정을 통해 성능 최적화
 - 하이퍼파라미터 튜닝: **MLflow**를 사용하여 Moving Average, Epoch, Sequence Length, Batch size의 실험 진행
 - **Custom Metic** 개발: **Weighted RMSE와 MinMax RMSE Metric** 개발
+
+<br/>
+  
   <div align="center">
   <img width="55%" alt="metric" src="https://github.com/JAMJAMI98/SKhynix_MLOps_project/assets/94438552/a0ad8fea-d3e2-46e3-be1a-ee10804b0672">
   </div>
