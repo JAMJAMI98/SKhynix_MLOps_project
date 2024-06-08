@@ -129,7 +129,6 @@
 - **Custom Metic** 개발: **Weighted RMSE와 MinMax RMSE Metric** 개발
 - <div align="center">
   <img width="55%" alt="metric" src="https://github.com/JAMJAMI98/SKhynix_MLOps_project/assets/94438552/a0ad8fea-d3e2-46e3-be1a-ee10804b0672">
-</div>
 - 하이퍼파라미터 튜닝: **MLflow**를 사용하여 Moving Average, Epoch, Sequence Length, Batch size의 실험 진행
 
 
